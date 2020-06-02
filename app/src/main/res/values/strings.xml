@@ -1,0 +1,59 @@
+<resources>
+    <!-- General -->
+
+    <string name="app_name">SpexialistExperterna</string>
+
+
+    <!-- buttons -->
+
+    <string name="registreraKonto">Registrera konto</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="bankid">BANK ID</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="google">GOOGLE</string>
+    <string name="currentTasks">Mina uppdrag</string>
+    <string name="completedTasks">Utförda uppdrag</string>
+
+
+
+    <!-- Textboxes -->
+
+    <string name="FirstName">Förnamn:</string>
+    <string name="LastName">Efternamn:</string>
+    <string name="adress">Adress:</string>
+    <string name="phoneNumber">Telefonnummer:</string>
+    <string name="email">Email:</string>
+    <string name="username">Användarnamn:</string>
+    <string name="password">Lösenord:</string>
+    <string name="fill">Skriv här...</string>
+
+
+
+
+    <!-- Text Views -->
+
+    <string name="login">Logga in:</string>
+    <string name="nonMember">Inte medlem?</string>
+    <string name="create">Skapa</string>
+
+
+
+
+    <!-- Image descriptions -->
+
+    <string name="logo">Logo</string>
+
+
+
+    <string name="sample">Lorem Ipsum</string>
+
+
+
+
+
+
+
+
+
+
+</resources>

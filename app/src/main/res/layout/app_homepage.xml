@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="match_parent"
+        android:layout_height="370dp"
+        android:layout_gravity="center"
+        android:foregroundGravity="center"
+        android:layout_marginBottom="4dp"
+        app:srcCompat="@drawable/torestorpet" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".027"
+        android:gravity="bottom"
+        android:textColor="#F0F0F0"
+        android:text="        Välj radie" />
+
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".02"
+        android:maxHeight="3dp"
+        android:minHeight="3dp"
+        android:progressDrawable="@drawable/volume_control"
+        android:thumbTint="#FFFFFF"
+        />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".03"
+        android:textColor="#F0F0F0"
+        android:textAlignment="center"
+        android:text="( 8km )" />
+
+    <LinearLayout
+        android:id="@+id/TaskBox"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".25"
+        android:orientation="vertical"></LinearLayout>
+</LinearLayout>

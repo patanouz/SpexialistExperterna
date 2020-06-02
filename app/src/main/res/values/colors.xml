@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#19449b</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#19449b</color>
+    <color name="textBoxBackground">#ECEBDD</color>
+    <color name="bottomMenu">#DADADA</color>
+    <color name="facebookBlue">#3b5998</color>
+    <color name="google">#db4a39</color>
+    <!-- gamla färgen: #1c0e45 -->
+</resources>
